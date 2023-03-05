@@ -15,14 +15,7 @@ public class App {
         Carro carro1 = new Carro("Ferrari", "GT", "Vermelho", "ASD-1234", 500000.0);
 
 
-        //System.out.println("CARRO 1 -------------------");
-        //System.out.println(carro.getMarca());
-        //System.out.println(carro.getModelo());
-        //System.out.println(carro.getPlaca());
-        //System.out.println(carro.getValor());
-        //System.out.println("CARRO 2 ----------------------");
 
-        //System.out.println(carro1.toString());
     
 
         Pessoa pessoa = new Pessoa("Denis", 27);
